@@ -1,0 +1,22 @@
+{
+  "title": "Sistema Trueque",
+     "authors": [
+    {
+      "name": "pixatintes",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/pixatintes/Trueque-SandBox/",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/Trueque-SandBox/main/world.json",
+  "download": "https://github.com/pixatintes/Trueque-SandBox/archive/refs/heads/main.zip",
+  "id": "la-puerta-de-ishtar",
+  "system": "sandbox",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.14.4.4",
+  "lastPlayed": "Wed May 28 2025 12:15:46 GMT+0000 (Coordinated Universal Time)"
+}
