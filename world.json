@@ -10,7 +10,7 @@
   "system": "sandbox",
   "manifest": "https://raw.githubusercontent.com/pixatintes/Trueque-SandBox/main/world.json",
   "download": "https://github.com/pixatintes/Trueque-SandBox/archive/refs/heads/main.zip",
-  "id": "la-puerta-de-ishtar",
+  "id": "trueque",
   "system": "sandbox",
   "coreVersion": "11.315",
   "compatibility": {
