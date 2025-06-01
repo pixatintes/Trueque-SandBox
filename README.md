@@ -1,4 +1,4 @@
-En este repositorio teneís el sistema para jugar a la Trueque en Foundry VTT. Trueque es un sistema de Pepe Pedraz con El Refugio: https://www.elrefugioeditorial.com/.
+En este repositorio teneís el sistema para jugar a Trueque en Foundry VTT. Trueque es un sistema de Pepe Pedraz con El Refugio: https://www.elrefugioeditorial.com/.
 
 
 El módulo Funciona en FoundryVTT gracias a Sandbox y está basado en un trabajo de Luvero. 
