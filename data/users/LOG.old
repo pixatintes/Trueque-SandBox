@@ -1,5 +1,17 @@
-2025/05/28-12:15:46.149093 eafda340f0a0 Delete type=3 #1
-2025/05/28-15:15:40.849014 eafda0c0f0a0 Level-0 table #5: started
-2025/05/28-15:15:40.850826 eafda0c0f0a0 Level-0 table #5: 908 bytes OK
-2025/05/28-15:15:40.853435 eafda0c0f0a0 Delete type=0 #3
-2025/05/28-15:15:40.858695 eafda0c0f0a0 Manual compaction at level-0 from '!users!JlZncxSwSKphjGjm' @ 72057594037927935 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at (end)
+2025/08/09-07:28:02.459895 f973bc78f000 Recovering log #7
+2025/08/09-07:28:02.465208 f973bc78f000 Delete type=3 #6
+2025/08/09-07:28:02.465236 f973bc78f000 Delete type=0 #3
+2025/08/09-07:28:02.465253 f973bc78f000 Delete type=3 #2
+2025/08/09-07:28:02.465287 f973bc78f000 Delete type=0 #7
+2025/08/09-15:29:51.985266 f973bbf7f000 Level-0 table #11: started
+2025/08/09-15:29:51.986984 f973bbf7f000 Level-0 table #11: 1650 bytes OK
+2025/08/09-15:29:51.988608 f973bbf7f000 Delete type=0 #9
+2025/08/09-15:29:51.992861 f973bbf7f000 Manual compaction at level-0 from '!users!JlZncxSwSKphjGjm' @ 72057594037927935 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at (end)
+2025/08/09-15:29:51.996512 f973bbf7f000 Manual compaction at level-1 from '!users!JlZncxSwSKphjGjm' @ 72057594037927935 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at '!users!JlZncxSwSKphjGjm' @ 8 : 1
+2025/08/09-15:29:51.996517 f973bbf7f000 Compacting 1@1 + 1@2 files
+2025/08/09-15:29:51.998692 f973bbf7f000 Generated table #12@1: 1 keys, 697 bytes
+2025/08/09-15:29:51.998701 f973bbf7f000 Compacted 1@1 + 1@2 files => 697 bytes
+2025/08/09-15:29:52.000506 f973bbf7f000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/09-15:29:52.000552 f973bbf7f000 Delete type=2 #5
+2025/08/09-15:29:52.000599 f973bbf7f000 Delete type=2 #11
+2025/08/09-15:29:52.004727 f973bbf7f000 Manual compaction at level-1 from '!users!JlZncxSwSKphjGjm' @ 8 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at (end)

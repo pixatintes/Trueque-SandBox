@@ -1,5 +1,23 @@
-2025/05/28-12:15:46.131253 eafda340f0a0 Delete type=3 #1
-2025/05/28-15:15:40.840803 eafda0c0f0a0 Level-0 table #5: started
-2025/05/28-15:15:40.842556 eafda0c0f0a0 Level-0 table #5: 10305 bytes OK
-2025/05/28-15:15:40.844207 eafda0c0f0a0 Delete type=0 #3
-2025/05/28-15:15:40.844338 eafda0c0f0a0 Manual compaction at level-0 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
+2025/08/09-07:28:02.439223 f973bdfbf000 Recovering log #7
+2025/08/09-07:28:02.439295 f973bdfbf000 Level-0 table #9: started
+2025/08/09-07:28:02.441464 f973bdfbf000 Level-0 table #9: 2814 bytes OK
+2025/08/09-07:28:02.446229 f973bdfbf000 Delete type=3 #6
+2025/08/09-07:28:02.446273 f973bdfbf000 Delete type=0 #7
+2025/08/09-15:29:51.975923 f973bbf7f000 Level-0 table #12: started
+2025/08/09-15:29:51.975937 f973bbf7f000 Level-0 table #12: 0 bytes OK
+2025/08/09-15:29:51.977622 f973bbf7f000 Delete type=0 #10
+2025/08/09-15:29:51.977688 f973bbf7f000 Manual compaction at level-0 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!s1Nm7gDPnsGSDIya' @ 36 : 1
+2025/08/09-15:29:51.977691 f973bbf7f000 Compacting 1@0 + 0@1 files
+2025/08/09-15:29:51.979897 f973bbf7f000 Generated table #13@0: 4 keys, 1711 bytes
+2025/08/09-15:29:51.979909 f973bbf7f000 Compacted 1@0 + 0@1 files => 1711 bytes
+2025/08/09-15:29:51.981429 f973bbf7f000 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/09-15:29:51.981479 f973bbf7f000 Delete type=2 #9
+2025/08/09-15:29:51.988670 f973bbf7f000 Manual compaction at level-0 from '!scenes!s1Nm7gDPnsGSDIya' @ 36 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
+2025/08/09-15:29:51.992876 f973bbf7f000 Manual compaction at level-1 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!s1Nm7gDPnsGSDIya' @ 40 : 1
+2025/08/09-15:29:51.992880 f973bbf7f000 Compacting 1@1 + 1@2 files
+2025/08/09-15:29:51.994726 f973bbf7f000 Generated table #14@1: 4 keys, 1711 bytes
+2025/08/09-15:29:51.994734 f973bbf7f000 Compacted 1@1 + 1@2 files => 1711 bytes
+2025/08/09-15:29:51.996354 f973bbf7f000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/09-15:29:51.996406 f973bbf7f000 Delete type=2 #5
+2025/08/09-15:29:51.996460 f973bbf7f000 Delete type=2 #13
+2025/08/09-15:29:52.000630 f973bbf7f000 Manual compaction at level-1 from '!scenes!s1Nm7gDPnsGSDIya' @ 40 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
