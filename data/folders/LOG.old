@@ -1,23 +1,3 @@
-2025/08/09-17:14:08.093647 edfcaf7bf0a0 Recovering log #14
-2025/08/09-17:14:08.093669 edfcaf7bf0a0 Level-0 table #16: started
-2025/08/09-17:14:08.095561 edfcaf7bf0a0 Level-0 table #16: 440 bytes OK
-2025/08/09-17:14:08.100516 edfcaf7bf0a0 Delete type=0 #14
-2025/08/09-17:14:08.100537 edfcaf7bf0a0 Delete type=3 #13
-2025/08/09-17:46:41.586484 edfcad4290a0 Level-0 table #19: started
-2025/08/09-17:46:41.586497 edfcad4290a0 Level-0 table #19: 0 bytes OK
-2025/08/09-17:46:41.588283 edfcad4290a0 Delete type=0 #17
-2025/08/09-17:46:41.590646 edfcad4290a0 Manual compaction at level-0 from '!folders!0MA27yWQEoRxXb4e' @ 72057594037927935 : 1 .. '!folders!y2kidIAMM84UI5T8' @ 0 : 0; will stop at '!folders!l4G3ByDuJF1cwERP' @ 70 : 1
-2025/08/09-17:46:41.590654 edfcad4290a0 Compacting 1@0 + 0@1 files
-2025/08/09-17:46:41.592827 edfcad4290a0 Generated table #20@0: 1 keys, 199 bytes
-2025/08/09-17:46:41.592836 edfcad4290a0 Compacted 1@0 + 0@1 files => 199 bytes
-2025/08/09-17:46:41.594408 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-17:46:41.594458 edfcad4290a0 Delete type=2 #16
-2025/08/09-17:46:41.602672 edfcad4290a0 Manual compaction at level-0 from '!folders!l4G3ByDuJF1cwERP' @ 70 : 1 .. '!folders!y2kidIAMM84UI5T8' @ 0 : 0; will stop at (end)
-2025/08/09-17:46:41.602977 edfcad4290a0 Manual compaction at level-1 from '!folders!0MA27yWQEoRxXb4e' @ 72057594037927935 : 1 .. '!folders!y2kidIAMM84UI5T8' @ 0 : 0; will stop at '!folders!l4G3ByDuJF1cwERP' @ 71 : 0
-2025/08/09-17:46:41.602985 edfcad4290a0 Compacting 1@1 + 1@2 files
-2025/08/09-17:46:41.604937 edfcad4290a0 Generated table #21@1: 27 keys, 3099 bytes
-2025/08/09-17:46:41.604946 edfcad4290a0 Compacted 1@1 + 1@2 files => 3099 bytes
-2025/08/09-17:46:41.606591 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-17:46:41.606639 edfcad4290a0 Delete type=2 #20
-2025/08/09-17:46:41.606677 edfcad4290a0 Delete type=2 #12
-2025/08/09-17:46:41.617013 edfcad4290a0 Manual compaction at level-1 from '!folders!l4G3ByDuJF1cwERP' @ 71 : 0 .. '!folders!y2kidIAMM84UI5T8' @ 0 : 0; will stop at (end)
+2025/08/09-23:34:22.219078 edfcaf7bf0a0 Recovering log #18
+2025/08/09-23:34:22.223144 edfcaf7bf0a0 Delete type=3 #15
+2025/08/09-23:34:22.223167 edfcaf7bf0a0 Delete type=0 #18

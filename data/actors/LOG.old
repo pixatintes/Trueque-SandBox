@@ -1,26 +1,3 @@
-2025/08/09-17:14:08.030036 edfcaf7bf0a0 Recovering log #26
-2025/08/09-17:14:08.031364 edfcaf7bf0a0 Level-0 table #29: started
-2025/08/09-17:14:08.036529 edfcaf7bf0a0 Level-0 table #29: 238746 bytes OK
-2025/08/09-17:14:08.041128 edfcaf7bf0a0 Delete type=3 #22
-2025/08/09-17:14:08.041150 edfcaf7bf0a0 Delete type=0 #26
-2025/08/09-17:46:41.627719 edfcad4290a0 Level-0 table #32: started
-2025/08/09-17:46:41.630694 edfcad4290a0 Level-0 table #32: 97949 bytes OK
-2025/08/09-17:46:41.632631 edfcad4290a0 Delete type=0 #30
-2025/08/09-17:46:41.644046 edfcad4290a0 Manual compaction at level-0 from '!actors!4D0ij2v0QddcsyrI' @ 72057594037927935 : 1 .. '!actors!cy45PT1mbyRzJaHl' @ 0 : 0; will stop at '!actors!wZywOfuQ7fHowtOm' @ 763 : 1
-2025/08/09-17:46:41.644053 edfcad4290a0 Compacting 3@0 + 1@1 files
-2025/08/09-17:46:41.651923 edfcad4290a0 Generated table #33@0: 12 keys, 99106 bytes
-2025/08/09-17:46:41.651934 edfcad4290a0 Compacted 3@0 + 1@1 files => 99106 bytes
-2025/08/09-17:46:41.653365 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-17:46:41.653516 edfcad4290a0 Delete type=2 #27
-2025/08/09-17:46:41.653749 edfcad4290a0 Delete type=2 #29
-2025/08/09-17:46:41.653818 edfcad4290a0 Delete type=2 #32
-2025/08/09-17:46:41.653948 edfcad4290a0 Delete type=2 #25
-2025/08/09-17:46:41.654173 edfcad4290a0 Manual compaction at level-0 from '!actors!wZywOfuQ7fHowtOm' @ 763 : 1 .. '!actors!cy45PT1mbyRzJaHl' @ 0 : 0; will stop at (end)
-2025/08/09-17:46:41.665051 edfcad4290a0 Manual compaction at level-1 from '!actors!4D0ij2v0QddcsyrI' @ 72057594037927935 : 1 .. '!actors!cy45PT1mbyRzJaHl' @ 0 : 0; will stop at '!actors!vGh2dec3oDjSgIrk' @ 767 : 0
-2025/08/09-17:46:41.665056 edfcad4290a0 Compacting 1@1 + 1@2 files
-2025/08/09-17:46:41.668414 edfcad4290a0 Generated table #34@1: 9 keys, 98925 bytes
-2025/08/09-17:46:41.668423 edfcad4290a0 Compacted 1@1 + 1@2 files => 98925 bytes
-2025/08/09-17:46:41.670034 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-17:46:41.670091 edfcad4290a0 Delete type=2 #33
-2025/08/09-17:46:41.670152 edfcad4290a0 Delete type=2 #21
-2025/08/09-17:46:41.670727 edfcad4290a0 Manual compaction at level-1 from '!actors!vGh2dec3oDjSgIrk' @ 767 : 0 .. '!actors!cy45PT1mbyRzJaHl' @ 0 : 0; will stop at (end)
+2025/08/09-23:34:22.181049 edfcaf7bf0a0 Recovering log #31
+2025/08/09-23:34:22.186183 edfcaf7bf0a0 Delete type=0 #31
+2025/08/09-23:34:22.186203 edfcaf7bf0a0 Delete type=3 #28

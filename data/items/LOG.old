@@ -1,23 +1,3 @@
-2025/08/09-17:14:08.102564 edfcadf8f0a0 Recovering log #14
-2025/08/09-17:14:08.103170 edfcadf8f0a0 Level-0 table #16: started
-2025/08/09-17:14:08.106377 edfcadf8f0a0 Level-0 table #16: 94768 bytes OK
-2025/08/09-17:14:08.111352 edfcadf8f0a0 Delete type=0 #14
-2025/08/09-17:14:08.111437 edfcadf8f0a0 Delete type=3 #13
-2025/08/09-17:46:41.588322 edfcad4290a0 Level-0 table #19: started
-2025/08/09-17:46:41.588353 edfcad4290a0 Level-0 table #19: 0 bytes OK
-2025/08/09-17:46:41.590134 edfcad4290a0 Delete type=0 #17
-2025/08/09-17:46:41.594509 edfcad4290a0 Manual compaction at level-0 from '!items!0CjdtuYoD1TubxXN' @ 72057594037927935 : 1 .. '!items!zW5WHwCVRbOUvmuL' @ 0 : 0; will stop at '!items!qSr9ttm5ngoxhIJQ' @ 1451 : 1
-2025/08/09-17:46:41.594514 edfcad4290a0 Compacting 1@0 + 0@1 files
-2025/08/09-17:46:41.596984 edfcad4290a0 Generated table #20@0: 16 keys, 15815 bytes
-2025/08/09-17:46:41.596992 edfcad4290a0 Compacted 1@0 + 0@1 files => 15815 bytes
-2025/08/09-17:46:41.599074 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-17:46:41.599131 edfcad4290a0 Delete type=2 #16
-2025/08/09-17:46:41.602688 edfcad4290a0 Manual compaction at level-0 from '!items!qSr9ttm5ngoxhIJQ' @ 1451 : 1 .. '!items!zW5WHwCVRbOUvmuL' @ 0 : 0; will stop at (end)
-2025/08/09-17:46:41.606713 edfcad4290a0 Manual compaction at level-1 from '!items!0CjdtuYoD1TubxXN' @ 72057594037927935 : 1 .. '!items!zW5WHwCVRbOUvmuL' @ 0 : 0; will stop at '!items!qSr9ttm5ngoxhIJQ' @ 1455 : 1
-2025/08/09-17:46:41.606718 edfcad4290a0 Compacting 1@1 + 1@2 files
-2025/08/09-17:46:41.610993 edfcad4290a0 Generated table #21@1: 214 keys, 176564 bytes
-2025/08/09-17:46:41.611002 edfcad4290a0 Compacted 1@1 + 1@2 files => 176564 bytes
-2025/08/09-17:46:41.612825 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-17:46:41.612876 edfcad4290a0 Delete type=2 #20
-2025/08/09-17:46:41.612933 edfcad4290a0 Delete type=2 #12
-2025/08/09-17:46:41.617115 edfcad4290a0 Manual compaction at level-1 from '!items!qSr9ttm5ngoxhIJQ' @ 1455 : 1 .. '!items!zW5WHwCVRbOUvmuL' @ 0 : 0; will stop at (end)
+2025/08/09-23:34:22.224710 edfcadf8f0a0 Recovering log #18
+2025/08/09-23:34:22.229137 edfcadf8f0a0 Delete type=3 #15
+2025/08/09-23:34:22.229160 edfcadf8f0a0 Delete type=0 #18

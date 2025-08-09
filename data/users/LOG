@@ -1,3 +1,6 @@
-2025/08/09-23:34:22.272404 edfcadf8f0a0 Recovering log #18
-2025/08/09-23:34:22.276745 edfcadf8f0a0 Delete type=3 #15
-2025/08/09-23:34:22.276767 edfcadf8f0a0 Delete type=0 #18
+2025/08/09-23:40:49.419238 edfcae79f0a0 Recovering log #23
+2025/08/09-23:40:49.423536 edfcae79f0a0 Delete type=0 #14
+2025/08/09-23:40:49.423560 edfcae79f0a0 Delete type=3 #22
+2025/08/09-23:40:49.423574 edfcae79f0a0 Delete type=3 #13
+2025/08/09-23:40:49.423586 edfcae79f0a0 Delete type=0 #23
+2025/08/09-23:40:49.423595 edfcae79f0a0 Delete type=2 #12

@@ -1,23 +1,3 @@
-2025/08/09-17:14:08.169204 edfcadf8f0a0 Recovering log #14
-2025/08/09-17:14:08.169242 edfcadf8f0a0 Level-0 table #16: started
-2025/08/09-17:14:08.171006 edfcadf8f0a0 Level-0 table #16: 2322 bytes OK
-2025/08/09-17:14:08.175163 edfcadf8f0a0 Delete type=0 #14
-2025/08/09-17:14:08.175187 edfcadf8f0a0 Delete type=3 #13
-2025/08/09-17:46:41.625851 edfcad4290a0 Level-0 table #19: started
-2025/08/09-17:46:41.625866 edfcad4290a0 Level-0 table #19: 0 bytes OK
-2025/08/09-17:46:41.627689 edfcad4290a0 Delete type=0 #17
-2025/08/09-17:46:41.640418 edfcad4290a0 Manual compaction at level-0 from '!users!JlZncxSwSKphjGjm' @ 72057594037927935 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at '!users!JlZncxSwSKphjGjm' @ 20 : 1
-2025/08/09-17:46:41.640423 edfcad4290a0 Compacting 1@0 + 0@1 files
-2025/08/09-17:46:41.642421 edfcad4290a0 Generated table #20@0: 1 keys, 697 bytes
-2025/08/09-17:46:41.642430 edfcad4290a0 Compacted 1@0 + 0@1 files => 697 bytes
-2025/08/09-17:46:41.643943 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-17:46:41.644005 edfcad4290a0 Delete type=2 #16
-2025/08/09-17:46:41.654156 edfcad4290a0 Manual compaction at level-0 from '!users!JlZncxSwSKphjGjm' @ 20 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at (end)
-2025/08/09-17:46:41.661764 edfcad4290a0 Manual compaction at level-1 from '!users!JlZncxSwSKphjGjm' @ 72057594037927935 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at '!users!JlZncxSwSKphjGjm' @ 35 : 1
-2025/08/09-17:46:41.661769 edfcad4290a0 Compacting 1@1 + 1@2 files
-2025/08/09-17:46:41.663433 edfcad4290a0 Generated table #21@1: 1 keys, 697 bytes
-2025/08/09-17:46:41.663443 edfcad4290a0 Compacted 1@1 + 1@2 files => 697 bytes
-2025/08/09-17:46:41.664932 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-17:46:41.664978 edfcad4290a0 Delete type=2 #20
-2025/08/09-17:46:41.665016 edfcad4290a0 Delete type=2 #12
-2025/08/09-17:46:41.670481 edfcad4290a0 Manual compaction at level-1 from '!users!JlZncxSwSKphjGjm' @ 35 : 1 .. '!users!JlZncxSwSKphjGjm' @ 0 : 0; will stop at (end)
+2025/08/09-23:34:22.272404 edfcadf8f0a0 Recovering log #18
+2025/08/09-23:34:22.276745 edfcadf8f0a0 Delete type=3 #15
+2025/08/09-23:34:22.276767 edfcadf8f0a0 Delete type=0 #18
