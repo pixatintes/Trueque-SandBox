@@ -1,3 +1,13 @@
-2025/08/09-23:34:22.181049 edfcaf7bf0a0 Recovering log #31
-2025/08/09-23:34:22.186183 edfcaf7bf0a0 Delete type=0 #31
-2025/08/09-23:34:22.186203 edfcaf7bf0a0 Delete type=3 #28
+2025/08/09-23:43:42.084369 edfcae79f0a0 Log #26: 26 ops saved to Table #37 OK
+2025/08/09-23:43:42.084438 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/actors/000026.log: OK
+2025/08/09-23:43:42.090440 edfcae79f0a0 Log #36: 42 ops saved to Table #38 OK
+2025/08/09-23:43:42.090470 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/actors/000036.log: OK
+2025/08/09-23:43:42.090713 edfcae79f0a0 Table #34: 9 entries OK
+2025/08/09-23:43:42.092975 edfcae79f0a0 Table #27: 124 entries OK
+2025/08/09-23:43:42.093367 edfcae79f0a0 Table #21: 9 entries OK
+2025/08/09-23:43:42.096394 edfcae79f0a0 Table #25: 136 entries OK
+2025/08/09-23:43:42.097001 edfcae79f0a0 Table #37: 26 entries OK
+2025/08/09-23:43:42.097717 edfcae79f0a0 Table #38: 42 entries OK
+2025/08/09-23:43:42.097796 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/actors/MANIFEST-000022: OK
+2025/08/09-23:43:42.097810 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/actors/MANIFEST-000035: OK
+2025/08/09-23:43:42.099760 edfcae79f0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/actors; recovered 6 files; 2939611 bytes. Some data may have been lost. ****

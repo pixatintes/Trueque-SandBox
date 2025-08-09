@@ -1,3 +1,7 @@
-2025/08/09-23:34:22.244766 edfcaf7bf0a0 Recovering log #16
-2025/08/09-23:34:22.249021 edfcaf7bf0a0 Delete type=3 #14
-2025/08/09-23:34:22.249044 edfcaf7bf0a0 Delete type=0 #16
+2025/08/09-23:43:42.246147 edfcaf7bf0a0 Log #19: 0 ops saved to Table #20 OK
+2025/08/09-23:43:42.246194 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/playlists/000019.log: OK
+2025/08/09-23:43:42.246209 edfcaf7bf0a0 Log #13: 0 ops saved to Table #21 OK
+2025/08/09-23:43:42.246219 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/playlists/000013.log: OK
+2025/08/09-23:43:42.246248 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/playlists/MANIFEST-000018: OK
+2025/08/09-23:43:42.246259 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/playlists/MANIFEST-000012: OK
+2025/08/09-23:43:42.247979 edfcaf7bf0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****

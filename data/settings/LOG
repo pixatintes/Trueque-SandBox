@@ -1,8 +1,9 @@
-2025/08/09-23:40:49.410977 edfcadf8f0a0 Recovering log #25
-2025/08/09-23:40:49.411001 edfcadf8f0a0 Level-0 table #27: started
-2025/08/09-23:40:49.412758 edfcadf8f0a0 Level-0 table #27: 477 bytes OK
-2025/08/09-23:40:49.417356 edfcadf8f0a0 Delete type=2 #14
-2025/08/09-23:40:49.417378 edfcadf8f0a0 Delete type=0 #25
-2025/08/09-23:40:49.417389 edfcadf8f0a0 Delete type=3 #24
-2025/08/09-23:40:49.417400 edfcadf8f0a0 Delete type=3 #15
-2025/08/09-23:40:49.417411 edfcadf8f0a0 Delete type=0 #16
+2025/08/09-23:43:42.298035 edfcaf7bf0a0 Delete type=3 #1
+2025/08/09-23:43:42.298081 edfcad4290a0 Compacting 4@0 + 0@1 files
+2025/08/09-23:43:42.301598 edfcad4290a0 Generated table #30@0: 10 keys, 1352 bytes
+2025/08/09-23:43:42.301608 edfcad4290a0 Compacted 4@0 + 0@1 files => 1352 bytes
+2025/08/09-23:43:42.304118 edfcad4290a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/08/09-23:43:42.304251 edfcad4290a0 Delete type=2 #14
+2025/08/09-23:43:42.304294 edfcad4290a0 Delete type=2 #26
+2025/08/09-23:43:42.304600 edfcad4290a0 Delete type=2 #27
+2025/08/09-23:43:42.304637 edfcad4290a0 Delete type=2 #23
