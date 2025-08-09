@@ -1,6 +1,6 @@
 {
   "title": "Sistema Trueque",
-     "authors": [
+  "authors": [
     {
       "name": "pixatintes",
       "flags": {}
@@ -11,12 +11,12 @@
   "manifest": "https://raw.githubusercontent.com/pixatintes/Trueque-SandBox/main/world.json",
   "download": "https://github.com/pixatintes/Trueque-SandBox/archive/refs/heads/main.zip",
   "id": "trueque",
-  "system": "sandbox",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
   "systemVersion": "0.14.4.4",
-  "lastPlayed": "Wed May 28 2025 12:15:46 GMT+0000 (Coordinated Universal Time)"
+  "lastPlayed": "Sat Aug 09 2025 23:34:22 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 1948
 }

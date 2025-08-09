@@ -1,26 +1,24 @@
-2025/08/09-07:28:02.449846 f973bdfbf000 Recovering log #7
-2025/08/09-07:28:02.449873 f973bdfbf000 Level-0 table #9: started
-2025/08/09-07:28:02.452187 f973bdfbf000 Level-0 table #9: 477 bytes OK
-2025/08/09-07:28:02.457155 f973bdfbf000 Delete type=3 #6
-2025/08/09-07:28:02.457183 f973bdfbf000 Delete type=0 #3
-2025/08/09-07:28:02.457200 f973bdfbf000 Delete type=3 #2
-2025/08/09-07:28:02.457217 f973bdfbf000 Delete type=0 #7
-2025/08/09-15:29:51.981533 f973bbf7f000 Level-0 table #12: started
-2025/08/09-15:29:51.983339 f973bbf7f000 Level-0 table #12: 477 bytes OK
-2025/08/09-15:29:51.985194 f973bbf7f000 Delete type=0 #10
-2025/08/09-15:29:51.988687 f973bbf7f000 Manual compaction at level-0 from '!settings!6yV7P8cwtLwjh8kN' @ 72057594037927935 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at '!settings!fdO5YkkajFEwybiz' @ 19 : 1
-2025/08/09-15:29:51.988691 f973bbf7f000 Compacting 2@0 + 0@1 files
-2025/08/09-15:29:51.990749 f973bbf7f000 Generated table #13@0: 2 keys, 477 bytes
-2025/08/09-15:29:51.990757 f973bbf7f000 Compacted 2@0 + 0@1 files => 477 bytes
-2025/08/09-15:29:51.992726 f973bbf7f000 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-15:29:51.992779 f973bbf7f000 Delete type=2 #9
-2025/08/09-15:29:51.992827 f973bbf7f000 Delete type=2 #12
-2025/08/09-15:29:51.996494 f973bbf7f000 Manual compaction at level-0 from '!settings!fdO5YkkajFEwybiz' @ 19 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at (end)
-2025/08/09-15:29:52.000645 f973bbf7f000 Manual compaction at level-1 from '!settings!6yV7P8cwtLwjh8kN' @ 72057594037927935 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at '!settings!fdO5YkkajFEwybiz' @ 21 : 1
-2025/08/09-15:29:52.000649 f973bbf7f000 Compacting 1@1 + 1@2 files
-2025/08/09-15:29:52.002591 f973bbf7f000 Generated table #14@1: 10 keys, 1352 bytes
-2025/08/09-15:29:52.002601 f973bbf7f000 Compacted 1@1 + 1@2 files => 1352 bytes
-2025/08/09-15:29:52.004582 f973bbf7f000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-15:29:52.004634 f973bbf7f000 Delete type=2 #5
-2025/08/09-15:29:52.004691 f973bbf7f000 Delete type=2 #13
-2025/08/09-15:29:52.004777 f973bbf7f000 Manual compaction at level-1 from '!settings!fdO5YkkajFEwybiz' @ 21 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at (end)
+2025/08/09-17:14:08.160637 edfcaf7bf0a0 Recovering log #16
+2025/08/09-17:14:08.160665 edfcaf7bf0a0 Level-0 table #18: started
+2025/08/09-17:14:08.162447 edfcaf7bf0a0 Level-0 table #18: 477 bytes OK
+2025/08/09-17:14:08.166822 edfcaf7bf0a0 Delete type=3 #15
+2025/08/09-17:14:08.166844 edfcaf7bf0a0 Delete type=0 #16
+2025/08/09-17:46:41.622188 edfcad4290a0 Level-0 table #21: started
+2025/08/09-17:46:41.624061 edfcad4290a0 Level-0 table #21: 477 bytes OK
+2025/08/09-17:46:41.625809 edfcad4290a0 Delete type=0 #19
+2025/08/09-17:46:41.636997 edfcad4290a0 Manual compaction at level-0 from '!settings!6yV7P8cwtLwjh8kN' @ 72057594037927935 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at '!settings!fdO5YkkajFEwybiz' @ 23 : 1
+2025/08/09-17:46:41.637002 edfcad4290a0 Compacting 2@0 + 0@1 files
+2025/08/09-17:46:41.638926 edfcad4290a0 Generated table #22@0: 2 keys, 477 bytes
+2025/08/09-17:46:41.638935 edfcad4290a0 Compacted 2@0 + 0@1 files => 477 bytes
+2025/08/09-17:46:41.640299 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/09-17:46:41.640356 edfcad4290a0 Delete type=2 #21
+2025/08/09-17:46:41.640392 edfcad4290a0 Delete type=2 #18
+2025/08/09-17:46:41.654150 edfcad4290a0 Manual compaction at level-0 from '!settings!fdO5YkkajFEwybiz' @ 23 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at (end)
+2025/08/09-17:46:41.658432 edfcad4290a0 Manual compaction at level-1 from '!settings!6yV7P8cwtLwjh8kN' @ 72057594037927935 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at '!settings!fdO5YkkajFEwybiz' @ 25 : 1
+2025/08/09-17:46:41.658436 edfcad4290a0 Compacting 1@1 + 1@2 files
+2025/08/09-17:46:41.660231 edfcad4290a0 Generated table #23@1: 10 keys, 1352 bytes
+2025/08/09-17:46:41.660240 edfcad4290a0 Compacted 1@1 + 1@2 files => 1352 bytes
+2025/08/09-17:46:41.661647 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/09-17:46:41.661697 edfcad4290a0 Delete type=2 #14
+2025/08/09-17:46:41.661733 edfcad4290a0 Delete type=2 #22
+2025/08/09-17:46:41.670468 edfcad4290a0 Manual compaction at level-1 from '!settings!fdO5YkkajFEwybiz' @ 25 : 1 .. '!settings!wGm52IkFhOMh0Z02' @ 0 : 0; will stop at (end)

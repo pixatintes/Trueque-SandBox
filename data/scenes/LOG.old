@@ -1,23 +1,24 @@
-2025/08/09-07:28:02.439223 f973bdfbf000 Recovering log #7
-2025/08/09-07:28:02.439295 f973bdfbf000 Level-0 table #9: started
-2025/08/09-07:28:02.441464 f973bdfbf000 Level-0 table #9: 2814 bytes OK
-2025/08/09-07:28:02.446229 f973bdfbf000 Delete type=3 #6
-2025/08/09-07:28:02.446273 f973bdfbf000 Delete type=0 #7
-2025/08/09-15:29:51.975923 f973bbf7f000 Level-0 table #12: started
-2025/08/09-15:29:51.975937 f973bbf7f000 Level-0 table #12: 0 bytes OK
-2025/08/09-15:29:51.977622 f973bbf7f000 Delete type=0 #10
-2025/08/09-15:29:51.977688 f973bbf7f000 Manual compaction at level-0 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!s1Nm7gDPnsGSDIya' @ 36 : 1
-2025/08/09-15:29:51.977691 f973bbf7f000 Compacting 1@0 + 0@1 files
-2025/08/09-15:29:51.979897 f973bbf7f000 Generated table #13@0: 4 keys, 1711 bytes
-2025/08/09-15:29:51.979909 f973bbf7f000 Compacted 1@0 + 0@1 files => 1711 bytes
-2025/08/09-15:29:51.981429 f973bbf7f000 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/09-15:29:51.981479 f973bbf7f000 Delete type=2 #9
-2025/08/09-15:29:51.988670 f973bbf7f000 Manual compaction at level-0 from '!scenes!s1Nm7gDPnsGSDIya' @ 36 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
-2025/08/09-15:29:51.992876 f973bbf7f000 Manual compaction at level-1 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!s1Nm7gDPnsGSDIya' @ 40 : 1
-2025/08/09-15:29:51.992880 f973bbf7f000 Compacting 1@1 + 1@2 files
-2025/08/09-15:29:51.994726 f973bbf7f000 Generated table #14@1: 4 keys, 1711 bytes
-2025/08/09-15:29:51.994734 f973bbf7f000 Compacted 1@1 + 1@2 files => 1711 bytes
-2025/08/09-15:29:51.996354 f973bbf7f000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/09-15:29:51.996406 f973bbf7f000 Delete type=2 #5
-2025/08/09-15:29:51.996460 f973bbf7f000 Delete type=2 #13
-2025/08/09-15:29:52.000630 f973bbf7f000 Manual compaction at level-1 from '!scenes!s1Nm7gDPnsGSDIya' @ 40 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
+2025/08/09-17:14:08.146866 edfcaf7bf0a0 Recovering log #16
+2025/08/09-17:14:08.147004 edfcaf7bf0a0 Level-0 table #18: started
+2025/08/09-17:14:08.151207 edfcaf7bf0a0 Level-0 table #18: 18641 bytes OK
+2025/08/09-17:14:08.155658 edfcaf7bf0a0 Delete type=3 #15
+2025/08/09-17:14:08.155680 edfcaf7bf0a0 Delete type=0 #16
+2025/08/09-17:46:41.618038 edfcad4290a0 Level-0 table #21: started
+2025/08/09-17:46:41.620294 edfcad4290a0 Level-0 table #21: 3790 bytes OK
+2025/08/09-17:46:41.622123 edfcad4290a0 Delete type=0 #19
+2025/08/09-17:46:41.632775 edfcad4290a0 Manual compaction at level-0 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!rTjeowNb0z7UGlDv' @ 107 : 1
+2025/08/09-17:46:41.632781 edfcad4290a0 Compacting 2@0 + 0@1 files
+2025/08/09-17:46:41.635104 edfcad4290a0 Generated table #22@0: 10 keys, 4099 bytes
+2025/08/09-17:46:41.635113 edfcad4290a0 Compacted 2@0 + 0@1 files => 4099 bytes
+2025/08/09-17:46:41.636869 edfcad4290a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/09-17:46:41.636918 edfcad4290a0 Delete type=2 #21
+2025/08/09-17:46:41.636957 edfcad4290a0 Delete type=2 #18
+2025/08/09-17:46:41.654132 edfcad4290a0 Manual compaction at level-0 from '!scenes!rTjeowNb0z7UGlDv' @ 107 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
+2025/08/09-17:46:41.654185 edfcad4290a0 Manual compaction at level-1 from '!scenes!2vZdK9ylAWJw08FE' @ 72057594037927935 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at '!scenes!s1Nm7gDPnsGSDIya' @ 92 : 1
+2025/08/09-17:46:41.654188 edfcad4290a0 Compacting 1@1 + 1@2 files
+2025/08/09-17:46:41.656112 edfcad4290a0 Generated table #23@1: 9 keys, 4073 bytes
+2025/08/09-17:46:41.656121 edfcad4290a0 Compacted 1@1 + 1@2 files => 4073 bytes
+2025/08/09-17:46:41.658295 edfcad4290a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/09-17:46:41.658357 edfcad4290a0 Delete type=2 #14
+2025/08/09-17:46:41.658395 edfcad4290a0 Delete type=2 #22
+2025/08/09-17:46:41.670203 edfcad4290a0 Manual compaction at level-1 from '!scenes!s1Nm7gDPnsGSDIya' @ 92 : 1 .. '!scenes!s1Nm7gDPnsGSDIya' @ 0 : 0; will stop at (end)
