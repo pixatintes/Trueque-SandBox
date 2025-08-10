@@ -1,7 +1,1 @@
-2025/08/09-23:43:42.130013 edfcaf7bf0a0 Log #19: 0 ops saved to Table #20 OK
-2025/08/09-23:43:42.130070 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards/000019.log: OK
-2025/08/09-23:43:42.130086 edfcaf7bf0a0 Log #13: 0 ops saved to Table #21 OK
-2025/08/09-23:43:42.130096 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards/000013.log: OK
-2025/08/09-23:43:42.130126 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards/MANIFEST-000018: OK
-2025/08/09-23:43:42.130138 edfcaf7bf0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards/MANIFEST-000012: OK
-2025/08/09-23:43:42.132314 edfcaf7bf0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/08/09-23:55:40.621045 edfcaf7bf0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

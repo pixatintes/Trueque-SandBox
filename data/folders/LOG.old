@@ -1,10 +1,2 @@
-2025/08/09-23:43:42.185118 edfcae79f0a0 Log #14: 2 ops saved to Table #24 OK
-2025/08/09-23:43:42.185174 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders/000014.log: OK
-2025/08/09-23:43:42.185193 edfcae79f0a0 Log #23: 0 ops saved to Table #25 OK
-2025/08/09-23:43:42.185204 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders/000023.log: OK
-2025/08/09-23:43:42.185235 edfcae79f0a0 Table #21: 27 entries OK
-2025/08/09-23:43:42.185261 edfcae79f0a0 Table #12: 27 entries OK
-2025/08/09-23:43:42.185268 edfcae79f0a0 Table #24: 2 entries OK
-2025/08/09-23:43:42.185307 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders/MANIFEST-000022: OK
-2025/08/09-23:43:42.185319 edfcae79f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders/MANIFEST-000013: OK
-2025/08/09-23:43:42.187203 edfcae79f0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders; recovered 3 files; 6575 bytes. Some data may have been lost. ****
+2025/08/09-23:55:40.670863 edfcaefaf0a0 Table #21: 27 entries OK
+2025/08/09-23:55:40.672614 edfcaefaf0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/folders; recovered 1 files; 3099 bytes. Some data may have been lost. ****

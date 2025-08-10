@@ -1,7 +1,1 @@
-2025/08/09-23:43:42.173203 edfcadf8f0a0 Log #19: 0 ops saved to Table #20 OK
-2025/08/09-23:43:42.173251 edfcadf8f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog/000019.log: OK
-2025/08/09-23:43:42.173266 edfcadf8f0a0 Log #13: 0 ops saved to Table #21 OK
-2025/08/09-23:43:42.173276 edfcadf8f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog/000013.log: OK
-2025/08/09-23:43:42.173306 edfcadf8f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog/MANIFEST-000018: OK
-2025/08/09-23:43:42.173317 edfcadf8f0a0 Archiving /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog/MANIFEST-000012: OK
-2025/08/09-23:43:42.175223 edfcadf8f0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/08/09-23:55:40.662654 edfcaf7bf0a0 **** Repaired leveldb /home/ubuntu/foundryuserdata/Data/worlds/trueque/data/fog; recovered 0 files; 0 bytes. Some data may have been lost. ****
